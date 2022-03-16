@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed4264,100:ffedbc&height=250&section=header&text=Hey I'm hyemi&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed4264,100:ffedbc&height=250&section=header&text=Hey I'm hyemi&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling" />
   
 ✨Hello, Welcome Hyemi World!✨  
 
