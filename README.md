@@ -8,7 +8,7 @@
   
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemi93&title_color=ed4264&text_color=ffedbc&icon_color=ed4264&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemi93&title_color=ed4264&text_color=ffedbc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemi93&layout=compact&title_color=ed4264&text_color=ffedbc&)](https://github.com/anuraghazra/github-readme-stats)
     
   <br>
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp;
 
-  ###### 📌*Contact Me*  
+  ###### 📌*Contact Me*
   ###### 📧hmheo0509@hanmail.net
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eceeed,100:eceeed&height=130&section=footer&&rotate=180" />
