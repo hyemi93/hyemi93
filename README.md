@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp;
 
   ###### 📌*Contact Me*  
-  📧hmheo0509@hanmail.net
+  ###### 📧hmheo0509@hanmail.net
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eceeed,100:eceeed&height=130&section=footer&&rotate=180" />
   
