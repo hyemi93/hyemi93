@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=footer&&rotate=180" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eceeed,100:eceeed&height=100&section=footer&&rotate=180" />
 
 
 <!---
