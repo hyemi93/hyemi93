@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed4264,100:ffedbc&height=250&section=header&text=Hey I'm hyemi&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling" />
   
-✨Hello, Welcome Hyemi World!✨  
+✨Hello, Welcome to Hyemi World!✨  
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyemi93%2Fhit-counter&count_bg=%23fff2d3&title_bg=%23F77891&icon=chupachups.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <br><br><br>
